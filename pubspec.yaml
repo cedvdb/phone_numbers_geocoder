@@ -1,7 +1,7 @@
 name: phone_numbers_geocoder
 description: Geocode phone numbers to find out where they originate from
 version: 0.0.1
-# homepage: https://www.example.com
+homepage: https://github.com/cedvdb/phone_numbers_geocoder
 
 environment:
   sdk: '>=2.14.0 <3.0.0'
