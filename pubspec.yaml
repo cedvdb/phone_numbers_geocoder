@@ -1,0 +1,11 @@
+name: phone_numbers_geocoder
+description: Geocode phone numbers to find out where they originate from
+version: 0.0.1
+# homepage: https://www.example.com
+
+environment:
+  sdk: '>=2.14.0 <3.0.0'
+
+dev_dependencies:
+  lints: ^1.0.0
+  test: any
